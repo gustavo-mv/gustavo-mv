@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-mv&show_icons=true&theme=radical)
+[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-mv&theme=dark&hide_progress=true)](https://github.com/gustavo-mv/github-readme-stats)
 <!--
 **gustavo-mv/gustavo-mv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
